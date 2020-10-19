@@ -1,5 +1,5 @@
 ---
-title: 'Recensie: User Friendly. How the hidden rules of design are changing the way we live, work and play'
+title: 'Recensie User Friendly. How the hidden rules of design are changing the way we live, work and play'
 date: 2020-10-19
 tags: ['recensie', 'cultuur', 'boeken', 'ux','design thinking']
 ---
