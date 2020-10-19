@@ -1,0 +1,7 @@
+{% extends "layouts/base.html" %}
+
+{% block content %}
+ 	<h3>Blogpost: {{ title }}</h3>
+  {{ content | safe }}
+	<p>Deze post werd gepubliceerd op {{ date }}.</p>
+{% endblock %}
